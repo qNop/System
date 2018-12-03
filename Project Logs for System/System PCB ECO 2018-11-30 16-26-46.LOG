@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=LCD_D11 Pin=R10-2
+Removed Pin From Net: NetName=LCD_D6 Pin=R11-2
+Change Component Comment : Designator=R10 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R11 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R10 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R11 Old Comment=10K New Comment=1K
+Added Pin To Net: NetName=NetC3_2 Pin=C6-2
+Added Pin To Net: NetName=NetC3_2 Pin=CN1-1
+Added Pin To Net: NetName=NetC3_2 Pin=D4-A
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=5V_COMM Pin=R10-2
+Added Pin To Net: NetName=LCD_D11 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=5V_COMM Pin=R11-2
+Added Pin To Net: NetName=LCD_D6 Pin=R11-2
+Added Pin To Net: NetName=NetC3_2 Pin=U3-8

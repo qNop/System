@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=NetC3_2 Pin=CN1-8
+Removed Pin From Net: NetName=NetCN1_4 Pin=Q1-2
+Removed Pin From Net: NetName=NetCN1_2 Pin=Q1-3
+Removed Pin From Net: NetName=NetCN1_4 Pin=Q2-2
+Removed Pin From Net: NetName=NetCN1_3 Pin=Q2-3
+Removed Pin From Net: NetName=NetCN1_4 Pin=Q8-2
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=LCD_D11 Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=LCD_D6 Pin=R11-2
+Removed Pin From Net: NetName=3.3V Pin=R15-1
+Removed Pin From Net: NetName=NetLED3_A Pin=R15-2
+Removed Pin From Net: NetName=3.3V Pin=R16-1
+Removed Pin From Net: NetName=NetLED4_A Pin=R16-2
+Removed Pin From Net: NetName=NetCN1_6 Pin=R26-1
+Removed Pin From Net: NetName=NetCN1_7 Pin=R27-1
+Removed Pin From Net: NetName=NetLED4_K Pin=U1-12
+Removed Pin From Net: NetName=NetLED3_K Pin=U1-14
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=GPIO_4 Pin=U2-4
+Removed Pin From Net: NetName=NetCN1_3 Pin=U2-10
+Removed Pin From Net: NetName=NetCN1_2 Pin=U2-12
+Removed Pin From Net: NetName=24V Pin=U2-16
+Removed Member From Class: ClassName=Cpu Member=LED3
+Removed Member From Class: ClassName=Cpu Member=LED4
+Removed Member From Class: ClassName=Gpio_RTC Member=Q8
+Removed Member From Class: ClassName=Cpu Member=R15
+Removed Member From Class: ClassName=Cpu Member=R16
+Change Component Comment : Designator=R10 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R11 Old Comment=10K New Comment=1K
+Added Component: Designator=R10(0805_SMD_R)
+Added Component: Designator=R11(0805_SMD_R)
+Added Pin To Net: NetName=NetC6_2 Pin=CN1-1
+Added Pin To Net: NetName=NetCN1_6 Pin=Q1-2
+Added Pin To Net: NetName=NetCN1_6 Pin=Q2-2
+Added Pin To Net: NetName=NetCN1_7 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=NetLED4_A Pin=R10-1
+Added Pin To Net: NetName=5V_COMM Pin=R10-2
+Added Pin To Net: NetName=LCD_D11 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=NetLED3_A Pin=R11-1
+Added Pin To Net: NetName=5V_COMM Pin=R11-2
+Added Pin To Net: NetName=LCD_D6 Pin=R11-2
+Added Pin To Net: NetName=GPIO_4 Pin=R21-1
+Added Pin To Net: NetName=NetCN1_4 Pin=R26-1
+Added Pin To Net: NetName=NetCN1_3 Pin=R27-1
+Added Pin To Net: NetName=NetCN1_2 Pin=R28-1
+Added Pin To Net: NetName=NetCN1_7 Pin=U2-10
+Added Pin To Net: NetName=GND_COMM Pin=U2-13
+Added Pin To Net: NetName=NetLED4_K Pin=U2-14
+Added Pin To Net: NetName=GND_COMM Pin=U2-15
+Added Pin To Net: NetName=NetLED3_K Pin=U2-16
+Added Pin To Net: NetName=GPIO_4 Pin=U3-16
+Change Net Name : Old Net Name=GPIO-1 New Net Name=GPIO-2
+Change Net Name : Old Net Name=GPIO-2 New Net Name=GPIO-3
+Change Net Name : Old Net Name=NetR24_1 New Net Name=GPIO-1
+Added Pin To Net: NetName=LED1 Pin=U1-14
+Added Pin To Net: NetName=LED1 Pin=U2-2
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=U1-12
+Added Pin To Net: NetName=LED2 Pin=U2-4
+Added Net: Name=LED2
+Added Pin To Net: NetName=NetCN1_8 Pin=CN1-8
+Added Pin To Net: NetName=NetCN1_8 Pin=Q1-3
+Added Pin To Net: NetName=NetCN1_8 Pin=U2-12
+Added Net: Name=NetCN1_8
+Added Member To Class: ClassName=Gpio_RTC Member=Component LED3 LED
+Added Member To Class: ClassName=Gpio_RTC Member=Component LED4 LED
+Added Member To Class: ClassName=Gpio_RTC Member=Component R10 1K
+Added Member To Class: ClassName=Gpio_RTC Member=Component R11 1K

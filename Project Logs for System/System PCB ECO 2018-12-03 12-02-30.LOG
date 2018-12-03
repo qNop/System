@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC36_1 Pin=CN2-1
+Removed Pin From Net: NetName=GND_COMM Pin=CN2-3
+Removed Pin From Net: NetName=EARTH Pin=CN4-1
+Added Pin To Net: NetName=GND_COMM Pin=CN2-1
+Added Pin To Net: NetName=NetC36_1 Pin=CN2-3
+Added Pin To Net: NetName=EARTH Pin=CN4-3
+Added Pin To Net: NetName=NetCN4_1 Pin=CN4-1
+Added Pin To Net: NetName=NetCN4_1 Pin=D6-A
+Added Net: Name=NetCN4_1

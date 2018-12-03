@@ -1,0 +1,11 @@
+Added Component: Designator=CN8(MICRO_USB)
+Added Pin To Net: NetName=NetC49_1 Pin=CN8-1
+Added Pin To Net: NetName=NetCN8_2 Pin=CN8-2
+Added Pin To Net: NetName=NetCN8_3 Pin=CN8-3
+Added Pin To Net: NetName=USB_OTG_ID Pin=CN8-4
+Added Pin To Net: NetName=GND Pin=CN8-5
+Added Pin To Net: NetName=EARTH Pin=CN8-6
+Added Pin To Net: NetName=EARTH Pin=CN8-7
+Added Pin To Net: NetName=EARTH Pin=CN8-8
+Added Pin To Net: NetName=EARTH Pin=CN8-9
+Added Member To Class: ClassName=Usb_SdCard Member=Component CN8 MINI_USB

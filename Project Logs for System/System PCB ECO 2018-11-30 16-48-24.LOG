@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=LCD_D11 Pin=R10-2
+Removed Pin From Net: NetName=LCD_D6 Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=U8-1
+Removed Pin From Net: NetName=5V Pin=U8-2
+Removed Pin From Net: NetName=GND_COMM Pin=U8-4
+Removed Pin From Net: NetName=5V_COMM Pin=U8-5
+Change Component DesignItemId : Designator=U8 Old DesignItemId=B0505T_1W New DesignItemId=LM7805CT
+Change Component Footprint: Designator=U8 Old Footprint=B_X_T_1W New Footprint=K7805
+Change Component Comment : Designator=U8 Old Comment=B050?T_1W New Comment=LM7805CT
+Added Pin To Net: NetName=GND_COMM Pin=C18-2
+Added Pin To Net: NetName=GND_COMM Pin=C19-2
+Added Pin To Net: NetName=GND_COMM Pin=CN4-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=5V_COMM Pin=R10-2
+Added Pin To Net: NetName=LCD_D11 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=5V_COMM Pin=R11-2
+Added Pin To Net: NetName=LCD_D6 Pin=R11-2
+Added Pin To Net: NetName=GND_COMM Pin=R51-1
+Added Pin To Net: NetName=GND_COMM Pin=U7-1
+Added Pin To Net: NetName=GND_COMM Pin=U8-G
+Added Pin To Net: NetName=24V Pin=U8-I
+Added Pin To Net: NetName=5V_COMM Pin=U8-O

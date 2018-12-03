@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=5V_COMM Pin=BC1-1
+Removed Pin From Net: NetName=GND_COMM Pin=C18-2
+Removed Pin From Net: NetName=GND_COMM Pin=C19-2
+Removed Pin From Net: NetName=24V Pin=C24-1
+Removed Pin From Net: NetName=GND_COMM Pin=C24-2
+Removed Pin From Net: NetName=GND_COMM Pin=C28-1
+Removed Pin From Net: NetName=5V_COMM Pin=C28-2
+Removed Pin From Net: NetName=GND_COMM Pin=C29-1
+Removed Pin From Net: NetName=5V_COMM Pin=C29-2
+Removed Pin From Net: NetName=GND_COMM Pin=CN4-2
+Removed Pin From Net: NetName=24V Pin=C£¿1-1
+Removed Pin From Net: NetName=GND_COMM Pin=C£¿1-2
+Removed Pin From Net: NetName=GND_COMM Pin=R51-1
+Removed Pin From Net: NetName=5V_COMM Pin=R56-2
+Removed Pin From Net: NetName=POWER_EN Pin=R57-2
+Removed Pin From Net: NetName=GND_COMM Pin=R59-1
+Removed Pin From Net: NetName=GND_COMM Pin=R60-1
+Removed Pin From Net: NetName=GND_COMM Pin=U7-1
+Removed Pin From Net: NetName=GND_COMM Pin=U8-1
+Removed Pin From Net: NetName=24V Pin=U8-3
+Removed Member From Class: ClassName=Power Member=BC1
+Removed Member From Class: ClassName=Power Member=C24
+Removed Member From Class: ClassName=Power Member=C25
+Removed Member From Class: ClassName=Power Member=C28
+Removed Member From Class: ClassName=Power Member=C29
+Removed Member From Class: ClassName=Power Member=C30
+Removed Member From Class: ClassName=Power Member=C£¿1
+Removed Member From Class: ClassName=Power Member=R56
+Removed Member From Class: ClassName=Power Member=R57
+Removed Member From Class: ClassName=Power Member=R58
+Removed Member From Class: ClassName=Power Member=R59
+Removed Member From Class: ClassName=Power Member=R60
+Change Component DesignItemId : Designator=U8 Old DesignItemId=TPS54302DDCR New DesignItemId=B0505T_1W
+Change Component Footprint: Designator=U8 Old Footprint=SOT-23-6 New Footprint=B_X_T_1W
+Change Component Comment : Designator=U8 Old Comment=TPS54302 New Comment=B050?T_1W
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=5V Pin=U8-2
+Added Pin To Net: NetName=GND_COMM Pin=U8-4
+Added Pin To Net: NetName=5V_COMM Pin=U8-5
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=C19-2
+Added Pin To Net: NetName=NetC18_2 Pin=CN4-2
+Added Pin To Net: NetName=NetC18_2 Pin=R51-1
+Added Pin To Net: NetName=NetC18_2 Pin=U7-1
+Added Net: Name=NetC18_2

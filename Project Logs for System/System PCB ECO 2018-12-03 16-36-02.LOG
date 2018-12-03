@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=5V_COMM Pin=R15-2
+Removed Pin From Net: NetName=5V_COMM Pin=R16-2
+Removed Pin From Net: NetName=LED1 Pin=U1-103
+Removed Pin From Net: NetName=LED2 Pin=U1-105
+Removed Pin From Net: NetName=GND_COMM Pin=U2-13
+Removed Pin From Net: NetName=NetLED4_K Pin=U2-14
+Removed Pin From Net: NetName=GND_COMM Pin=U2-15
+Removed Pin From Net: NetName=NetLED3_K Pin=U2-16
+Removed Member From Class: ClassName=Gpio_RTC Member=LED3
+Removed Member From Class: ClassName=Gpio_RTC Member=LED4
+Removed Member From Class: ClassName=Gpio_RTC Member=R15
+Removed Member From Class: ClassName=Gpio_RTC Member=R16
+Change Component DesignItemId : Designator=CN1 Old DesignItemId=CON8 New DesignItemId=CON5
+Change Component Footprint: Designator=CN1 Old Footprint=WJ15EDGRM-3.81-8P New Footprint=WJ15EDGRM-3.81-5P
+Change Component Comment : Designator=CN1 Old Comment=CON8 New Comment=CON5
+Added Component: Designator=CN6(WJ15EDGRM-3.81-5P)
+Added Component: Designator=Q8(SOT-23)
+Added Component: Designator=Q9(SOT-23)
+Added Pin To Net: NetName=3.3V Pin=R15-2
+Added Pin To Net: NetName=3.3V Pin=R16-2
+Added Pin To Net: NetName=LED2 Pin=U1-62
+Added Pin To Net: NetName=LED1 Pin=U1-64
+Added Pin To Net: NetName=NetLED4_K Pin=U1-95
+Added Pin To Net: NetName=NetLED3_K Pin=U1-97
+Added Pin To Net: NetName=NetCN6_1 Pin=CN6-1
+Added Pin To Net: NetName=NetCN6_1 Pin=Q1-2
+Added Pin To Net: NetName=NetCN6_1 Pin=Q2-2
+Added Pin To Net: NetName=NetCN6_1 Pin=Q8-2
+Added Pin To Net: NetName=NetCN6_1 Pin=Q9-2
+Added Net: Name=NetCN6_1
+Added Pin To Net: NetName=NetCN6_2 Pin=CN6-2
+Added Pin To Net: NetName=NetCN6_2 Pin=Q2-3
+Added Pin To Net: NetName=NetCN6_2 Pin=U2-10
+Added Net: Name=NetCN6_2
+Added Pin To Net: NetName=NetCN6_3 Pin=CN6-3
+Added Pin To Net: NetName=NetCN6_3 Pin=Q1-3
+Added Pin To Net: NetName=NetCN6_3 Pin=U2-12
+Added Net: Name=NetCN6_3
+Added Pin To Net: NetName=NetCN6_4 Pin=CN6-4
+Added Pin To Net: NetName=NetCN6_4 Pin=Q9-3
+Added Pin To Net: NetName=NetCN6_4 Pin=U2-14
+Added Net: Name=NetCN6_4
+Added Pin To Net: NetName=NetCN6_5 Pin=CN6-5
+Added Pin To Net: NetName=NetCN6_5 Pin=Q8-3
+Added Pin To Net: NetName=NetCN6_5 Pin=U2-16
+Added Net: Name=NetCN6_5
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_1 Pin=U2-15
+Added Net: Name=NetQ8_1
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=U2-13
+Added Net: Name=NetQ9_1
+Added Member To Class: ClassName=Gpio_RTC Member=Component CN6 CON5
+Added Member To Class: ClassName=Cpu Member=Component LED3 LED
+Added Member To Class: ClassName=Cpu Member=Component LED4 LED
+Added Member To Class: ClassName=Gpio_RTC Member=Component Q8 1318
+Added Member To Class: ClassName=Gpio_RTC Member=Component Q9 1318
+Added Member To Class: ClassName=Cpu Member=Component R15 1K
+Added Member To Class: ClassName=Cpu Member=Component R16 1K
