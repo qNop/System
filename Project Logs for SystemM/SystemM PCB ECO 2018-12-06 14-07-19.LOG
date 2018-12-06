@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetCN6_2 Pin=CN6-2
+Removed Pin From Net: NetName=NetCN6_3 Pin=Q1-3
+Removed Pin From Net: NetName=NetCN6_4 Pin=Q9-3
+Removed Pin From Net: NetName=NetCN6_3 Pin=U2-12
+Removed Pin From Net: NetName=NetCN6_4 Pin=U2-14
+Change Component DesignItemId : Designator=CN6 Old DesignItemId=CON5 New DesignItemId=CON4
+Change Component Footprint: Designator=CN6 Old Footprint=WJ15EDGRM-3.81-5P New Footprint=Á¬½ÓÆ÷DD4
+Change Component Comment : Designator=CN6 Old Comment=CON5 New Comment=CON4
+Added Pin To Net: NetName=NetCN6_2 Pin=CN6-1
+Added Pin To Net: NetName=NetCN6_4 Pin=Q8-3
+Added Pin To Net: NetName=NetCN6_3 Pin=Q9-3
+Added Pin To Net: NetName=NetCN6_3 Pin=U2-14
+Added Pin To Net: NetName=NetCN6_4 Pin=U2-16
+Change Net Name : Old Net Name=NetCN6_2 New Net Name=NetCN6_1
+Added Pin To Net: NetName=NetCN6_2 Pin=CN6-2
+Added Pin To Net: NetName=NetCN6_2 Pin=Q1-3
+Added Pin To Net: NetName=NetCN6_2 Pin=U2-12
+Added Net: Name=NetCN6_2

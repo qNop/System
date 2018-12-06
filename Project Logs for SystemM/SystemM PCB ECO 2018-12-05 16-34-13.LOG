@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=NetCN6_1 Pin=Q2-2
+Removed Pin From Net: NetName=GPIO_9 Pin=U2-8
+Removed Pin From Net: NetName=GND Pin=U8-1
+Removed Pin From Net: NetName=5V Pin=U8-2
+Removed Pin From Net: NetName=GND_COMM Pin=U8-4
+Removed Pin From Net: NetName=5V_COMM Pin=U8-5
+Removed Member From Class: ClassName=Gpio_RTC Member=Q2
+Change Component DesignItemId : Designator=U8 Old DesignItemId=B0505T_1W New DesignItemId=TPS54302DDCR
+Change Component DesignItemId : Designator=C26 Old DesignItemId=CAP  POL New DesignItemId=SMD_Cap
+Change Component Footprint: Designator=U8 Old Footprint=B_X_T_1W New Footprint=SOT-23-6
+Change Component Footprint: Designator=C26 Old Footprint=CASE A New Footprint=0805SMD_Cap
+Change Component Comment : Designator=C26 Old Comment=10uF/10V New Comment=22uF
+Change Component Comment : Designator=U8 Old Comment=B050?T_1W New Comment=TPS54302
+Added Component: Designator=C7(0805SMD_Cap)
+Added Component: Designator=C8(0805SMD_Cap)
+Added Component: Designator=L3(GDRH127)
+Added Component: Designator=R11(0805_SMD_R)
+Added Component: Designator=R12(0805_SMD_R)
+Added Component: Designator=R13(0805_SMD_R)
+Added Component: Designator=R14(0805_SMD_R)
+Added Component: Designator=R29(0805_SMD_R)
+Added Pin To Net: NetName=GND_COMM Pin=C18-2
+Added Pin To Net: NetName=GND_COMM Pin=C19-2
+Added Pin To Net: NetName=GND_COMM Pin=CN4-2
+Added Pin To Net: NetName=5V_COMM Pin=L3-1
+Added Pin To Net: NetName=5V_COMM Pin=R12-2
+Added Pin To Net: NetName=GND_COMM Pin=R13-2
+Added Pin To Net: NetName=GND_COMM Pin=R29-1
+Added Pin To Net: NetName=GND_COMM Pin=R51-1
+Added Pin To Net: NetName=NetQ3_1 Pin=U2-8
+Added Pin To Net: NetName=GND_COMM Pin=U7-1
+Added Pin To Net: NetName=GND_COMM Pin=U8-1
+Added Pin To Net: NetName=24V Pin=U8-3
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=PMIC_ON_REQ_5V
+Added Pin To Net: NetName=+24V Pin=U2-10
+Added Net: Name=+24V
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=U8-6
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=L3-2
+Added Pin To Net: NetName=NetC7_2 Pin=U8-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=R12-1
+Added Pin To Net: NetName=NetC8_1 Pin=R14-2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R14-1
+Added Pin To Net: NetName=NetC8_2 Pin=R29-2
+Added Pin To Net: NetName=NetC8_2 Pin=U8-4
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=R13-1
+Added Pin To Net: NetName=NetR11_1 Pin=U8-5
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=PMIC_ON_EN Pin=R11-2
+Added Pin To Net: NetName=PMIC_ON_EN Pin=U2-9
+Added Net: Name=PMIC_ON_EN
+Added Member To Class: ClassName=Power Member=Component C7 0.1uF
+Added Member To Class: ClassName=Power Member=Component C8 75pF
+Added Member To Class: ClassName=Power Member=Component L3 ¥≈÷È
+Added Member To Class: ClassName=Power Member=Component R11 511K
+Added Member To Class: ClassName=Power Member=Component R12 49.9
+Added Member To Class: ClassName=Power Member=Component R13 100K
+Added Member To Class: ClassName=Power Member=Component R14 100K
+Added Member To Class: ClassName=Power Member=Component R29 13.3K
