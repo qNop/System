@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=5V_SYS Pin=U7-3
-Removed Pin From Net: NetName=GND Pin=U7-5
-Change Component DesignItemId : Designator=U7 Old DesignItemId=VRB2405YMD-6WR3 New DesignItemId=VRBS2405
-Change Component Footprint: Designator=U7 Old Footprint=VRB2405YMD-6WR3 New Footprint=VRB_S
-Change Component Comment : Designator=U7 Old Comment=VRB2405YMD-6WR3 New Comment=VRBS2405
-Added Pin To Net: NetName=5V_SYS Pin=U7-6
-Added Pin To Net: NetName=GND Pin=U7-8

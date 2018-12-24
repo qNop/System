@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=NetC49_1 Pin=C49-1
-Removed Pin From Net: NetName=GND Pin=C49-2
-Removed Pin From Net: NetName=USB_OTG2_VBUS Pin=C53-1
-Removed Pin From Net: NetName=GND Pin=C53-2
-Removed Member From Class: ClassName=Usb_SdCard Member=C49
-Removed Member From Class: ClassName=Usb_SdCard Member=C53
-Change Net Name : Old Net Name=NetC49_1 New Net Name=NetC50_1

@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=NetCN3_1 Pin=TVS1-1
-Removed Pin From Net: NetName=GND Pin=TVS1-2
-Removed Pin From Net: NetName=NetCN3_3 Pin=TVS1-3
-Removed Pin From Net: NetName=NetCN3_6 Pin=TVS1-4
-Removed Pin From Net: NetName=NetCN3_2 Pin=TVS1-6
-Removed Member From Class: ClassName=Net Member=TVS1
